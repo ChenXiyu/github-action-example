@@ -17,4 +17,4 @@ jobs:
         run: |
           cat /etc/os-release
           echo
-          node version
+          node --version
